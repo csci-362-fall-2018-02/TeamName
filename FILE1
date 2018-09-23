@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<h1>Files in Directory</h1>
+<table style="width:100%">
+  <tr>
+    <td>Desktop</td>
+  </tr>
+  <tr>
+    <td>Documents</td>
+  </tr>
+  <tr>
+    <td>Downloads</td>
+  </tr>
+  <tr>
+    <td>examples.desktop</td>
+  </tr>
+  <tr>
+    <td>FILE</td>
+  </tr>
+  <tr>
+    <td>Music</td>
+  </tr>
+  <tr>
+    <td>Pictures</td>
+  </tr>
+  <tr>
+    <td>Public</td>
+  </tr>
+  <tr>
+    <td>script.sh</td>
+  </tr>
+  <tr>
+    <td>snap</td>
+  </tr>
+  <tr>
+    <td>Templates</td>
+  </tr>
+  <tr>
+    <td>Videos</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<h1>Files in Directory</h1>
+<table style="width:100%">
+  <tr>
+    <td>atom-amd64.deb</td>
+  </tr>
+  <tr>
+    <td>script.sh</td>
+  </tr>
+</table>
+</body>
+</html>
