@@ -1,0 +1,228 @@
+---TESTS COMPLETE---
+FAILED 0/25 CASES
+
+Test 1: PASS
+Time of test: 2018-12-03 13:01:29.252113
+Function: makeplural
+Input: ['human']
+Expected Output: humans
+Actual Output: humans
+Time elapsed: 0:00:00.029574
+
+
+Test 2: PASS
+Time of test: 2018-12-03 13:01:29.281761
+Function: makeplural
+Input: ['valkyrie']
+Expected Output: valkyries
+Actual Output: valkyries
+Time elapsed: 0:00:00.001324
+
+
+Test 3: PASS
+Time of test: 2018-12-03 13:01:29.283228
+Function: makeplural
+Input: ['man']
+Expected Output: men
+Actual Output: men
+Time elapsed: 0:00:00.001035
+
+
+Test 4: PASS
+Time of test: 2018-12-03 13:01:29.284420
+Function: makeplural
+Input: ['homunculus']
+Expected Output: homunculi
+Actual Output: homunculi
+Time elapsed: 0:00:00.001023
+
+
+Test 5: PASS
+Time of test: 2018-12-03 13:01:29.286855
+Function: makeplural
+Input: ['larva']
+Expected Output: larvae
+Actual Output: larvae
+Time elapsed: 0:00:00.001099
+
+
+Test 6: PASS
+Time of test: 2018-12-03 13:01:29.291660
+Function: makeplural
+Input: ['wolf']
+Expected Output: wolves
+Actual Output: wolves
+Time elapsed: 0:00:00.004983
+
+
+Test 7: PASS
+Time of test: 2018-12-03 13:01:29.296838
+Function: makeplural
+Input: ['nerf']
+Expected Output: nerfs
+Actual Output: nerfs
+Time elapsed: 0:00:00.001178
+
+
+Test 8: PASS
+Time of test: 2018-12-03 13:01:29.298144
+Function: makeplural
+Input: ['mycelium']
+Expected Output: mycelia
+Actual Output: mycelia
+Time elapsed: 0:00:00.002109
+
+
+Test 9: PASS
+Time of test: 2018-12-03 13:01:29.300377
+Function: makeplural
+Input: ['nemesis']
+Expected Output: nemeses
+Actual Output: nemeses
+Time elapsed: 0:00:00.004374
+
+
+Test 10: PASS
+Time of test: 2018-12-03 13:01:29.304942
+Function: makeplural
+Input: ['box']
+Expected Output: boxes
+Actual Output: boxes
+Time elapsed: 0:00:00.001341
+
+
+Test 11: PASS
+Time of test: 2018-12-03 13:01:29.306411
+Function: makeplural
+Input: ['ruby']
+Expected Output: rubies
+Actual Output: rubies
+Time elapsed: 0:00:00.001055
+
+
+Test 12: PASS
+Time of test: 2018-12-03 13:01:29.307656
+Function: makeplural
+Input: ['matzo']
+Expected Output: matzot
+Actual Output: matzot
+Time elapsed: 0:00:00.005033
+
+
+Test 13: PASS
+Time of test: 2018-12-03 13:01:29.312820
+Function: makeplural
+Input: ['knife']
+Expected Output: knives
+Actual Output: knives
+Time elapsed: 0:00:00.001020
+
+
+Test 14: PASS
+Time of test: 2018-12-03 13:01:29.313969
+Function: makesingular
+Input: ['pigs']
+Expected Output: pig
+Actual Output: pig
+Time elapsed: 0:00:00.001023
+
+
+Test 15: PASS
+Time of test: 2018-12-03 13:01:29.315179
+Function: makesingular
+Input: ['valkyries']
+Expected Output: valkyrie
+Actual Output: valkyrie
+Time elapsed: 0:00:00.005691
+
+
+Test 16: PASS
+Time of test: 2018-12-03 13:01:29.324361
+Function: makesingular
+Input: ['lizardmen']
+Expected Output: lizardman
+Actual Output: lizardman
+Time elapsed: 0:00:00.001346
+
+
+Test 17: PASS
+Time of test: 2018-12-03 13:01:29.325837
+Function: makesingular
+Input: ['fungi']
+Expected Output: fungus
+Actual Output: fungus
+Time elapsed: 0:00:00.002255
+
+
+Test 18: PASS
+Time of test: 2018-12-03 13:01:29.328229
+Function: makesingular
+Input: ['algae']
+Expected Output: alga
+Actual Output: alga
+Time elapsed: 0:00:00.001540
+
+
+Test 19: PASS
+Time of test: 2018-12-03 13:01:29.330261
+Function: makesingular
+Input: ['wolves']
+Expected Output: wolf
+Actual Output: wolf
+Time elapsed: 0:00:00.004410
+
+
+Test 20: PASS
+Time of test: 2018-12-03 13:01:29.335309
+Function: makesingular
+Input: ['balactheria']
+Expected Output: balactherium
+Actual Output: balactherium
+Time elapsed: 0:00:00.002351
+
+
+Test 21: PASS
+Time of test: 2018-12-03 13:01:29.337808
+Function: makesingular
+Input: ['nemeses']
+Expected Output: nemesis
+Actual Output: nemesis
+Time elapsed: 0:00:00.005177
+
+
+Test 22: PASS
+Time of test: 2018-12-03 13:01:29.343135
+Function: makesingular
+Input: ['boxes']
+Expected Output: box
+Actual Output: box
+Time elapsed: 0:00:00.004807
+
+
+Test 23: PASS
+Time of test: 2018-12-03 13:01:29.349285
+Function: makesingular
+Input: ['rubies']
+Expected Output: ruby
+Actual Output: ruby
+Time elapsed: 0:00:00.001605
+
+
+Test 24: PASS
+Time of test: 2018-12-03 13:01:29.351024
+Function: makesingular
+Input: ['matzot']
+Expected Output: matzo
+Actual Output: matzo
+Time elapsed: 0:00:00.005458
+
+
+Test 25: PASS
+Time of test: 2018-12-03 13:01:29.356645
+Function: makesingular
+Input: ['knives']
+Expected Output: knife
+Actual Output: knife
+Time elapsed: 0:00:00.001201
+
+
